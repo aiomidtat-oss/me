@@ -15,3 +15,4 @@ asyncio>=4.0.0
 
 # aiofiles - برای کار با فایل‌ها به صورت async (در صورت نیاز)
 # aiofiles>=23.2.0
+openai
